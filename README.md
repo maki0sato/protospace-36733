@@ -16,7 +16,7 @@
 | title      |    string | null: false |
 | catch_copy |      text | null: false |
 | concept    |      text | null: false |
-| imade      |           |             |
+| image      |           |             |
 | user       | reference |             |
 
 ## commentsテーブル
